@@ -7,4 +7,10 @@
     <RootNamespace>tarea_de_diars_1</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="Models\CodeFirst\" />
+    <Folder Include="Models\DatabaseFirst\" />
+    <Folder Include="Models\ModelFirst\" />
+  </ItemGroup>
+
 </Project>
